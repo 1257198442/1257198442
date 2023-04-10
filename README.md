@@ -1,8 +1,8 @@
-<h1 align="center">你好，我是YAMI<img src="https://media0.giphy.com/media/YSNTUguOMvWiIY4TQx/giphy.gif?cid=ecf05e47vb5u9uyw0r6ip66w6kkdicrgg3dr9crgcu7oaw1e&rid=giphy.gif&ct=s" width="35"></h1>
+<h1 align="center">你好，我是YAMI</h1>
 
 <p align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&color=ffffff&lines=Hello Word!;我是一个擅长掉发的前后端苦逼程序员;一个对绘画建模略知一二的平面设计师;一个会码字整活的文案兼策划" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=我是一个擅长掉发的前后端苦逼程序员;一个对绘画建模略知一二的平面设计师;一个会码字整活的文案兼策划" alt="Typing SVG" /></a>
 
 </p>
 
